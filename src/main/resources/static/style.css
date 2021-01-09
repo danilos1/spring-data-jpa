@@ -1,0 +1,24 @@
+body, html {
+    background: #fefefe !important;
+}
+
+.container {
+    background: #fefefe;
+    color: #000;
+}
+
+.nav-bar {
+    padding: 20px;
+    background-image: url("bookshelf_background.png");
+    width: 100%;
+    height: 500px;
+}
+
+#title {
+    color: #fff;
+    font-size: 7.5em;
+}
+
+a {
+    margin-left: 9px;
+}
